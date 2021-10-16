@@ -20,8 +20,6 @@ pip install virtualenv
 pip install pywhatkit
 ```
 
-* Python 3.x ou superior
-
 ## Colabore
 
 Envie o seu `Pull-request` e contribua com esse projeto.
